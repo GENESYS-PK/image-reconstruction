@@ -1,5 +1,6 @@
 #pragma once
 #include "pch.hpp"
+#include "interface.hpp"
 
 using clk_t = std::chrono::steady_clock;
 
